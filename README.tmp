@@ -63,7 +63,6 @@ structure_parse_results.pl: To build the statistics table.
 structure2distruct.pl: produces the figures, parameters and data files from structure outputs
 
 Example:
-structure_parallel_cluster_qsub.pl 1 7 5 n /home/jacques/test
 
 Where the folder "/home/jacques/test" contains the 3 text files: 
 mainparams = main parameters file
