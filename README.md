@@ -7,7 +7,7 @@ KEGG_enrichment4nonmodel
 ------------
 Description
 ------------
-This package aims to do KGG pathways assigment and performs KEGG enrichment analyses for non model species.
+This package aims to do KEGG pathways assigment and performs KEGG enrichment analyses for non model species.
 It uses enzymes (EC number) produced from Blast2GO annotation.
 
 KEGG_enrichment4nonmodel conducts the following steps:
